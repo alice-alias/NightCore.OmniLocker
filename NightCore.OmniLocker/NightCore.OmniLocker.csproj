@@ -6,9 +6,10 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <LangVersion>8.0</LangVersion>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>ロックするやつ</Description>
+    <Version>0.0.1</Version>
+    <PackageProjectUrl>https://github.com/alice-alias/NightCore.OmniLocker</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alice-alias/NightCore.OmniLocker</RepositoryUrl>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="System.ValueTuple" Version="4.5.0" />
-  </ItemGroup>
 </Project>
