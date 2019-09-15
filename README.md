@@ -1,8 +1,12 @@
 # NightCore.OmniLocker
 
+[![NuGet version](https://badge.fury.io/nu/NightCore.OmniLocker.svg)](https://badge.fury.io/nu/NightCore.OmniLocker)
+
 ロックしたりするやつ
 
 ## つかう
+
+https://www.nuget.org/packages/NightCore.OmniLocker
 
 ```cs
 using NightCore;
