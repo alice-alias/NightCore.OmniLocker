@@ -27,7 +27,7 @@ namespace NightCore
                     return ev;
                 }
                 return null;
-            })?.Enter(timeout, cancellationToken);
+            })?.Enter(timeout, cancellationToken) ?? false;
         }
 
         public void ReleaseOne()
